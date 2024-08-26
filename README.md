@@ -6,3 +6,6 @@ Da mesma forma que fizemos a listagem dos nossos Customers em nossa API, repita 
 * A linguagem de programação para este desafio é TypeScript
 
 ## Principais lições aprendidas
+- Supertest
+- Testes e2e
+- Onde utilizar Use Cases
